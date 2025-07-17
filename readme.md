@@ -1,7 +1,7 @@
-#🛒 Carrinho de Compras (Shopee Cart)
+# 🛒 Carrinho de Compras (Shopee Cart)
 Este é um projeto simples de um sistema de carrinho de compras implementado em JavaScript. Ele simula funcionalidades básicas de um e-commerce, como adicionar e remover itens do carrinho, calcular o subtotal, exibir o total da compra, filtrar itens por tipo e gerenciar uma lista de desejos.
 
-#✨ Funcionalidades:
+# ✨ Funcionalidades:
 * Adicionar e remover itens do carrinho
 
 * Aumentar a quantidade de um item já existente
@@ -14,7 +14,7 @@ Este é um projeto simples de um sistema de carrinho de compras implementado em 
 
 * Adicionar e exibir itens na lista de desejos (wishlist)
 
-#🧰 Tecnologias:
+# 🧰 Tecnologias:
 * JavaScript (ES6+)
 
 * Código modular com import/export
